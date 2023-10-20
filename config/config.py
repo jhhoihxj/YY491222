@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/YaFaMusic/YaMusicBot",
+    "https://github.com/jhhoihxj/YY491222",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -65,13 +65,13 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "YY8GG"
+    "CHANNEL_SUDO", "O_J_9"
 )  # معرف قناتك بدون @
 YAFA_NAME = getenv(
     "YAFA_NAME", "بينتيريست - Pinterest"
 )  # اسم قناتك
 YAFA_CHANNEL = getenv(
-   " YAFA_CHANNEL", "https://t.me/YY8GG"
+   " YAFA_CHANNEL", "https://t.me/O_J_9"
 )  # رابط قناتك
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", None
@@ -144,7 +144,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "AgE_5xIAE4JibpeHyLOGMMJoHfFcV5IzJZ26uHhlnhMa7sXoK4EopcHMRoB9UrsrmJhLuLzVb5_TFKkWi1RFTQ0TRFJ4nKeUq-yWOyDeeuKO1k7VSvfMBaqnJzodcWC880fCUkihQoYn3CQZ8GYLSfR_10QYyhp8_hT5SXN09Ieu_W_J1WWvk4uHvnTNrrg3huNPURcaY6kGHeMu4Vousm_lONuyEP_5bUJ3CR6bf8yta8aETB2w5q_JKYfaz01FCGnEmA9nHVYVLUUO7-qXaJmS8QcOcEuiksBQQd1c1Vh2oCvdvruMCrUjpBBkFs23DDwFUjsJGmnT1YgkVulWagJFXLffbgAAAAF6iGZrAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
